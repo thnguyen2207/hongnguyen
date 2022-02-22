@@ -1,0 +1,50 @@
+
+.a01{
+    font-size: 25px;
+
+}
+.b02{
+    width: 300px;
+    height: 23px;
+    font-size: 20px;
+    border-radius: 7px;
+    color: black;
+    border:1px solid gray;
+    margin: 10px;
+}
+.b03{
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 7px;
+    color: black;
+    border:1px solid gray;
+    margin: 10px;
+}
+.e00{
+    width: 120px;
+    font-size: 15px;
+    margin: 5px;
+    border-radius: 15px;
+}
+.e01{
+    width: 200px;
+    font-size: 15px;
+    margin: 5px;
+    border-radius: 15px;
+    margin-left: 60px;
+}
+.form{
+    width: 30%;
+    text-align: center;
+    border: 2px inset black;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.form a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
